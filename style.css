@@ -1,0 +1,51 @@
+.new{
+    width: 79px;
+    height: 43px;
+   
+        background-image: none;
+        
+}
+
+/* .main{
+/* background-color: black; */
+
+    /* background-color: #b30808; */
+    /* padding: 400px;
+
+}
+.first div{
+    margin-left: 900px;
+    background-color: black;
+}
+.second div{
+    margin: 0px;
+}  */
+
+#bu{
+   background-color: green;
+   color: white;
+   /* border-radius: 10px,20px; */
+   border-radius: 299px;
+
+
+}
+#new{
+    color: green;
+    font-size: xxx-large;
+}
+#nr{
+    font-size: large;
+}
+#po{
+   
+
+    background-color: green;
+    color: white;
+    /* border-radius: 10px,20px; */
+    border-radius: 299px;
+}
+#l{
+   background-image: url(./istockphoto-1182932382-612x612.jpg);
+   background-repeat: no-repeat;
+  background-size: cover;
+}
